@@ -3,4 +3,5 @@
 
 Control Flow Graph
 
-![CFG](https://github.com/zjancev/SI_2023_lab2_203072/assets/127028177/b821a558-853b-4728-94f0-fe6d24f33c6b)
+
+![CFG](https://github.com/zjancev/SI_2023_lab2_203072/assets/127028177/f6ff773a-d4e1-477c-9080-bf8f524b47d0)
